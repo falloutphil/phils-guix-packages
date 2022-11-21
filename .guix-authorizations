@@ -1,0 +1,5 @@
+(authorizations
+ (version 0)               ;current file format version
+
+ (("7ED3 F8DC 7B95 1B0B 6D5D  DDB1 37A1 B77B 6941 A335"
+   (name "phil"))))
